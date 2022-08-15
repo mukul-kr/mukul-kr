@@ -2,9 +2,9 @@ name: Waka-Readme
 
 on:
   workflow_dispatch:
-    schedule:
-    # cron job to run every 2 hours
-      cron: "0 */2 * * *"
+  
+  schedule:
+    - cron: "0 1 */3 * *" # cron job to run every 2 hours
 
 jobs:
   update-readme:
