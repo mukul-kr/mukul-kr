@@ -84,9 +84,9 @@ I am also an open-source enthusiast and contributor. I have learned a lot from t
 <!--START_SECTION:waka-->
 
 ```text
-Go           2 hrs 17 mins   █████████████████████████   99.65 %
-CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Go           1 hr 7 mins     █████████████████████████   99.65 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
