@@ -84,11 +84,12 @@ I am also an open-source enthusiast and contributor. I have learned a lot from t
 <!--START_SECTION:waka-->
 
 ```text
-Go           2 hrs 44 mins   █████████████▓░░░░░░░░░░░   54.70 %
-Java         1 hr 39 mins    ████████▒░░░░░░░░░░░░░░░░   33.07 %
-HTML         23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-TypeScript   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Go           2 hrs 43 mins   ████████████████████████▒   96.98 %
+Java         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
