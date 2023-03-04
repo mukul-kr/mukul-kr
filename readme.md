@@ -84,7 +84,9 @@ I am also an open-source enthusiast and contributor. I have learned a lot from t
 <!--START_SECTION:waka-->
 
 ```text
-Python   0 secs          █████████████████████████   100.00 %
+Python   1 hr 36 mins    ███████████████████▓░░░░░   79.26 %
+Java     21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.54 %
+Other    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 ```
 
 <!--END_SECTION:waka-->
