@@ -84,9 +84,12 @@ I am also an open-source enthusiast and contributor. I have learned a lot from t
 <!--START_SECTION:waka-->
 
 ```text
-Java     1 hr 11 mins    ███████████████▒░░░░░░░░░   61.68 %
-Python   44 mins         █████████▓░░░░░░░░░░░░░░░   38.13 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Docker     1 hr 26 mins    ██████████████████▒░░░░░░   73.45 %
+Bash       15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
+YAML       11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Text       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
