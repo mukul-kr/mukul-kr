@@ -84,11 +84,11 @@ I am also an open-source enthusiast and contributor. I have learned a lot from t
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 59 mins   ███████████████░░░░░░░░░░   60.64 %
-Bash     59 mins         █████░░░░░░░░░░░░░░░░░░░░   20.03 %
-YAML     17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-HTML     16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Other    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Python                     7 hrs 4 mins    ████████████████████▓░░░░   82.26 %
+HTML                       36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+TOML                       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Text                       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Docker                     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
