@@ -84,11 +84,7 @@ I am also an open-source enthusiast and contributor. I have learned a lot from t
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     8 hrs           █████████████▓░░░░░░░░░░░   55.06 %
-JavaScript                 1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-Bash                       1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-Makefile                   59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-YAML                       44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
