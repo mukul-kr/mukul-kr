@@ -84,7 +84,11 @@ I am also an open-source enthusiast and contributor. I have learned a lot from t
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   3 hrs 12 mins   ██████████████████████░░░   87.79 %
+TypeScript   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Other        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+XML          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
