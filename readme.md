@@ -84,7 +84,9 @@ I am also an open-source enthusiast and contributor. I have learned a lot from t
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   0 secs          █████████████████████████   100.00 %
+Python            1 hr 49 mins    ██████████████████▓░░░░░░   74.00 %
+Protocol Buffer   26 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
+Text              11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
 ```
 
 <!--END_SECTION:waka-->
