@@ -2,30 +2,28 @@
 </h1>
 
 <p align="center">
-<a href="https://www.instagram.com/_clashion/">
-  <img alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/cat_i_one/">
+  <img alt="Mukul's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/bCWPYUR9Em">
-  <img alt="Mukul's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/_clashion">
+
+<a href="https://twitter.com/cat_i_one">
   <img  alt="Mukul Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mukul-kumar-15674a201/">
+<a href="https://www.linkedin.com/in/cat-i-one/">
   <img  alt="Mukul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
 </p>
 <p align="center">
 
-Hi, i'm [Mukul Kumar](https://clash-ion.github.io/Clash-ion/), a passionate self-taught data scientist, devops enthusiast and a freelance software engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Mukul Kumar, a passionate self-taught backend developer, DevOps enthusiast, and a freelance software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and contributor. I have learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   
 - 💼 any freelance work? do reach, [email](mailto:mukul0000kumar@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, I am happy to help;
 </p>
 <br></br>
 <p align="center">
@@ -79,7 +77,7 @@ I am also an open-source enthusiast and contributor. I have learned a lot from t
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
-## 📊 **this week i spent my time on:**
+## 📊 **This week I spent my time on:**
 
 <!--START_SECTION:waka-->
 
@@ -92,13 +90,13 @@ TypeScript                 0 secs          █▒░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/mukulkumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 
-## 📈 my github stats
+## 📈 my GitHub stats
 
 ![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukul-kr&count_private=true&show_icons=true&theme=dark&hide_gravatar=true&hide_logo=true&width=400&font=Roboto&title_color=#ffffff&title_font=Roboto&title_size=20&title_weight=bold&body_color=#ffffff&body_font=Roboto&body_size=14&body_weight=normal&border_color=#ffffff&border_width=2&border_radius=5&background_color=#000000&show_more=true&more_color=#ffffff&more_font=Roboto&more_size=14&more_weight=normal&more_background_color=#000000&more_border_color=#ffffff&more_border_width=2&more_border_radius=5&more_text_color=#ffffff&more_text_font=Roboto&more_text_size=14&more_text_weight=normal&show_title=true&show_body=true&show_more=true&show_border=true&show_gravatar=true&show_logo=true&show_icons=true&show_gravatar_border=true&show_gravatar_logo=true&show_gravatar_icon=true&show_gravatar_text=true&show_gravatar_background=true&show_gravatar_border_color=#ffffff&show_gravatar_logo_color=#ffffff&show_gravatar_icon_color=#ffffff&show_gravatar_text_color=#ffffff&show_gravatar_background_color=#000000&show_gravatar_border_width=2&show_gravatar_logo_width=2&show_gravatar_icon_width=2&show_gravatar_text_width=2&show_gravatar_background_width=2&show_gravatar_border_radius=5&show_gravatar_logo_radius=5&show_gravatar_icon_radius=5&show_gravatar_text_radius=5&show_gravatar_background_radius=5&show_g)
 
