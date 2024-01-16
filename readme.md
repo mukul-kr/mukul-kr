@@ -103,4 +103,4 @@ if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 [![wakatime](https://wakatime.com/badge/user/24d589f6-c92c-49ef-80e5-6ada238dc7c9.svg)](https://wakatime.com/@24d589f6-c92c-49ef-80e5-6ada238dc7c9)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mukul-kr.visitor-badge&left_text=My%20Page%20Visitors)
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmukul-kr%2Fmukul-kr"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmukul-kr%2Fmukul-kr&label=VISITORS&countColor=%23263759" /></a>
