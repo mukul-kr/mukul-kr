@@ -82,10 +82,11 @@ I am also an open-source enthusiast and contributor. I have learned a lot from t
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      2 mins          █████████████▓░░░░░░░░░░░   54.30 %
-Nginx configuration file   1 min           ███████▒░░░░░░░░░░░░░░░░░   28.95 %
-Bash                       0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-TypeScript                 0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+CSS          3 hrs 44 mins   ███████████▒░░░░░░░░░░░░░   44.71 %
+HTML         2 hrs 14 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.70 %
+JavaScript   1 hr 54 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
+XML          27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
